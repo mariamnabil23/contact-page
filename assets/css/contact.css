@@ -20,7 +20,7 @@ body {
 .contact-bg {
     height: 50vh;
     width: 100%;
-    background-image: url('../bus3.avif');
+    background-image: url('../images/bus3.avif');
     opacity: 0.8;
     background-repeat: no-repeat;
     background-size: cover;
